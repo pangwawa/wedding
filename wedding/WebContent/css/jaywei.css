@@ -1,0 +1,197 @@
+@charset "UTF-8";
+
+#jaychou{
+	
+	
+	  position: relative;
+	  left: 165px;
+	  margin: 16px;
+	
+}
+.jaywei_j1{
+ 	 width: 1190px;
+ 	 height: 346px;
+ 	 position: relative;
+ 	 left:167px;
+}
+
+.jaywei_j2{
+	  width:1190px;
+	  height: 332px;
+	  background: #f5f5f5;
+	
+}
+.jaywei_j3{
+	    
+	    width:325px ;
+	   height:243.75px ;
+	   position: relative;
+	   top:50px;
+	   float: left;
+}
+.jaywei_j5{
+	
+	 border: 1px solid #ddd;
+	 width: 70%;
+	 margin: 60px -4px;
+	 float: left;
+	 line-height: 50px;
+	 text-align: center;
+	 background: white;
+	 
+}
+.jaywei_j5 tr td{
+	
+	font-size: 14px;
+}
+.jaywei_j8{
+	
+	  position: relative;
+	  top: 39px;
+	  margin:0px 30px;
+}
+.jaywei_j9{
+	
+	 position: relative;
+	  top: 39px;
+	  padding: 0px 23px;
+}
+.jaywei_j10{
+	 position: relative;
+	  top: 39px;
+	  padding: 0px 23px;
+}
+#div_1{
+	
+	  width: 1190px;
+	  height: 300px;
+	  position: relative;
+	  left: 170px;
+	
+}
+.div_2{
+	width: 587px;
+	 height:240px;  
+	 float: left;
+	 margin: 0px 3px;
+	 position: relative;
+	 left: -4px;c
+	 }
+#div_1 :hover .div_2{
+	
+	border: 1px solid red; 
+	
+
+}
+
+.div_2 img{
+	
+	  margin: 14px 0px;
+	
+}
+.div_3{
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: relative;
+	left: 330px;
+	top: -215px;
+}
+.div_4{
+	
+	font-size: 16px;
+	margin: 7px 0px;
+	
+}
+.div_5{
+	font-size: 25px;
+    vertical-align: text-bottom;
+    color: #f9326d;
+ 
+}
+.div_6,.div_7{
+	
+	    margin-bottom: 4px;
+    color: #888;
+    font-size: 14px;
+    margin: 7px 1px;
+	
+}
+#div_h{
+	 width: 1190px;
+	 height: 440px;
+	 position: relative;
+	 left: 159px;
+}
+#div_h1 iframe{
+	
+	width:770px ;
+	height:400px ;
+	float: left;
+}
+#div_h2{
+	
+	float: left;
+	font-size: 14px;
+	 line-height: 40px;
+	 font-family: "Microsoft YaHei", "微软雅黑", "SimSun", "宋体";
+	     text-align: center;
+    padding: 0 30px;
+    width: 29%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.div_h3{
+	
+	  color:#AAA;
+}
+.div_h4{
+	
+	color:#3a3a3a ;
+}
+#div_hh{
+	
+	   position: relative;
+	   left: -985px;
+	
+}
+#div_k{
+	border: 1px solid #dddddd;
+	position: relative;
+	left: 170px;	
+	line-height: 20px;
+	text-align: center;
+	width: 30%;
+	font-size: 13px;
+	
+}
+#div_k table td{
+	
+
+	height: 20px;
+	padding: 7px 4px;
+	
+}
+
+#div_k2{
+	
+	position: relative;
+
+  left: 170px;	
+  top: 10px;
+}
+#div_k1{
+	position: relative;
+
+  left: 275px;	
+  top: -13px;
+  font-size: 16px;
+  color: #ff5384;
+	
+	
+}
+#div_k table td:hover{
+	
+	border: 1px solid red;
+	
+}

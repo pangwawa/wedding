@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Microsoft YaHei UI";
+}
+
+body{
+    background: url("../images/abg.jpg") no-repeat center;
+}
+
+#container{
+    margin-top: 150px;
+    height: 350px;
+}
+
+.layout_center{
+    margin: auto;
+    height: 100%;
+    width: 300px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 3px 3px 20px #cccccc;
+}
+
+.logo{
+    margin: 0 auto;
+    text-align: center;
+    width: 200px;
+    height: 125px;
+    /*background-color: hotpink;*/
+    font-weight: bold;
+    font-size: 18px;
+    color: #e85984;
+}
+
+.logo img{
+    width: 170px;
+    margin-top: 15px;
+    /*margin: 0 auto;*/
+}
+
+.input{
+    margin: 5px 50px;
+    padding-left: 10px;
+    width: 190px;
+    height: 30px;
+    border-radius: 3px;
+    outline:none;
+    border: 1px solid #ccc;
+}
+
+.vcodeText{
+    margin-left: 50px;
+    margin-top: 5px;
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    outline:none;
+    border: 1px solid #ccc;
+    text-align: center;
+    float: left;
+}
+
+.vcodeImg{
+    margin-top: 5px;
+    margin-left: 12px;
+    width: 85px;
+    height: 30px;
+    border: #bfbfbf solid 1px;
+    background-color: white;
+    border-radius: 3px;
+    float: left;
+    cursor: pointer;
+}
+
+.login_btn{
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 200px;
+    height: 40px;
+    outline: none;
+    background-color: #ff809e;
+    border-left: 0;
+    border-right: 0;
+    border-color: #ff5384;
+    box-shadow: 2px 2px 5px #cccccc;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.login_btn:hover{
+    /*background-color: #fb3268;*/
+    background-color: #ff5384;
+}
+
+.msg{
+    margin-top: 7px;
+    color: #ff5384;
+    font-size: small;
+    text-align: center;
+    height: 15px;
+    font-weight: bold;
+}
+
+.sup{
+    margin-top: 5px;
+    color: #cccccc;
+    font-size: small;
+    /*font-style: italic;*/
+    /*background-color: aqua;*/
+    text-align: right;
+    margin-right: 15px;
+    /*margin-top: 15px;*/
+}
